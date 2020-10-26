@@ -1,0 +1,2 @@
+# ProjetoExemploReceitasIonic
+Lista de Receitas
